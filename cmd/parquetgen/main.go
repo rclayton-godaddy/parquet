@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/parsyl/parquet"
-	"github.com/parsyl/parquet/cmd/parquetgen/gen"
-	sch "github.com/parsyl/parquet/schema"
+	"github.com/rclayton-godaddy/parquet"
+	"github.com/rclayton-godaddy/parquet/cmd/parquetgen/gen"
+	sch "github.com/rclayton-godaddy/parquet/schema"
 )
 
 var (

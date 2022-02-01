@@ -18,7 +18,7 @@ possibilities.
 
 ## Installation
     
-    go get -u github.com/parsyl/parquet/...
+    go get -u github.com/rclayton-godaddy/parquet/...
 
 This will also install parquet's only two dependencies: thift and snappy
 

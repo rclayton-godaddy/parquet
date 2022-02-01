@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	sch "github.com/parsyl/parquet/schema"
+	sch "github.com/rclayton-godaddy/parquet/schema"
 )
 
 // Struct generates a struct definition based on the

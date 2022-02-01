@@ -5,7 +5,7 @@ import (
 	"go/format"
 	"testing"
 
-	"github.com/parsyl/parquet/cmd/parquetgen/fields"
+	"github.com/rclayton-godaddy/parquet/cmd/parquetgen/fields"
 	"github.com/stretchr/testify/assert"
 )
 

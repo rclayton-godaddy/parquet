@@ -1,4 +1,4 @@
-module github.com/parsyl/parquet
+module github.com/rclayton-godaddy/parquet
 
 go 1.17
 

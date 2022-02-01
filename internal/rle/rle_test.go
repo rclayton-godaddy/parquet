@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/parsyl/parquet/internal/rle"
+	"github.com/rclayton-godaddy/parquet/internal/rle"
 	"github.com/stretchr/testify/assert"
 )
 
